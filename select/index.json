@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Levitating",
+  "base_artist": "Dua Lipa",
+  "createdAt": "2026-01-12T06:52:40.089402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/01_Levitating_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/02_Levitating_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Levitating (feat. DaBaby)",
+      "artist": "Dua Lipa feat. DaBaby",
+      "has_synced": true,
+      "path": "select/03_Levitating_(feat._DaBaby)_Dua_Lipa_feat._DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Levitating",
+      "artist": "Dua Lipa feat․ DaBaby",
+      "has_synced": true,
+      "path": "select/04_Levitating_Dua_Lipa_feat._DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]",
+      "artist": "Dua Lipa feat. Amaal Mallik, Prakriti Kakar & Sukriti Kakar",
+      "has_synced": true,
+      "path": "select/05_Levitating_(feat._Prakriti_Kakar_&_Sukriti_Kakar)_[Amaal_Mallik_Remix]_Dua_Lipa_feat._Amaal_Mallik,_Prakriti_Kakar_&_Sukriti_Kakar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Levitating (Amaal Mallik remix)",
+      "artist": "Dua Lipa feat. Sukriti Kakkar & Prakriti Kakar",
+      "has_synced": true,
+      "path": "select/06_Levitating_(Amaal_Mallik_remix)_Dua_Lipa_feat._Sukriti_Kakkar_&_Prakriti_Kakar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Levitating (feat. DaBaby) [Don Diablo Remix]",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Levitating_(feat._DaBaby)_[Don_Diablo_Remix]_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Levitating (Don Diablo remix)",
+      "artist": "Dua Lipa feat. DaBaby",
+      "has_synced": true,
+      "path": "select/08_Levitating_(Don_Diablo_remix)_Dua_Lipa_feat._DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Levitating (feat. DaBaby) [KUU Remix]",
+      "artist": "Dua Lipa feat. KUU & DaBaby",
+      "has_synced": true,
+      "path": "select/09_Levitating_(feat._DaBaby)_[KUU_Remix]_Dua_Lipa_feat._KUU_&_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Levitating (feat. DaBaby) - KUU Remix",
+      "artist": "Dua Lipa, KUU, DaBaby",
+      "has_synced": true,
+      "path": "select/10_Levitating_(feat._DaBaby)_-_KUU_Remix_Dua_Lipa,_KUU,_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix] [Mixed]",
+      "artist": "Dua Lipa feat. The Blessed Madonna, Madonna & Missy Elliott",
+      "has_synced": true,
+      "path": "select/11_Levitating_(feat._Madonna_and_Missy_Elliott)_[The_Blessed_Madonna_Remix]_[Mixed]_Dua_Lipa_feat._The_Blessed_Madonna,_Madonna_&_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "artist": "Dua Lipa, Madonna, Missy Elliott, The Blessed Madonna",
+      "has_synced": true,
+      "path": "select/12_Levitating_(feat._Madonna_and_Missy_Elliott)_[The_Blessed_Madonna_Remix]_Dua_Lipa,_Madonna,_Missy_Elliott,_The_Blessed_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Levitating",
+      "artist": "Dua Lipa, DaBaby",
+      "has_synced": true,
+      "path": "select/13_Levitating_Dua_Lipa,_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Levitating (feat. DaBaby)",
+      "artist": "Dua Lipa, DaBaby",
+      "has_synced": true,
+      "path": "select/14_Levitating_(feat._DaBaby)_Dua_Lipa,_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Levitating (The Blessed Madonna Remix) [feat. Madonna and Missy Elliott]",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Levitating_(The_Blessed_Madonna_Remix)_[feat._Madonna_and_Missy_Elliott]_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "artist": "Dua Lipa, Madonna, Missy Elliott",
+      "has_synced": true,
+      "path": "select/16_Levitating_(feat._Madonna_and_Missy_Elliott)_[The_Blessed_Madonna_Remix]_Dua_Lipa,_Madonna,_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/17_Levitating_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Levitating (feat. DaBaby)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/18_Levitating_(feat._DaBaby)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/pl_01_Levitating_Dua_Lipa.txt"
+    }
+  ]
+}
